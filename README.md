@@ -1,15 +1,15 @@
-# ECHO - really simple api response maker for dummies
+# ECHO - really simple API response maker for dummies
 
 
 ## Docker
 
 Download docker image
 
-    docker pull amo/Echo
+    docker pull spitfiresidra/echo
 
 Run on background
 
-    docker run -d -p 80:4000 amo/Echo
+    docker run -d -p 80:4000 spitfiresidra/echo
 
 Read logs
 
